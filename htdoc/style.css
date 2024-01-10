@@ -1,0 +1,74 @@
+
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form-group button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .logsucc{
+    color: black;
+    font-size: 50px;
+    height: 10vh;
+  }
+  .link{
+    color: green;
+    font-size: 17px;
+    height: 10vh;
+  }
+  #progress-container {
+    width: 100%;
+    background-color: #ddd;
+  }
+
+  #progress-bar {
+    width: 0%;
+    height: 30px;
+    background-color: #4caf50;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    transition: width 0.5s;
+  }
+  .salvataggio{
+    margin-left: 40%;
+    height: 40%;
+  }
+  #login{
+    margin-left: 40%;
+    height: 40%;
+  }
